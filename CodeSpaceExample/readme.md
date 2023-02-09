@@ -4,3 +4,5 @@
 
 - Change VsCode Display Language
   `ctrl` + `shift` + `P` select `Display Language`
+
+- Add Repository
